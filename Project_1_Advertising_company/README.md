@@ -1,5 +1,5 @@
 # Планирование рекламной компании.
-[Проект](planning an advertising company.ipynb)
+[Проект](Project_1_Advertising_company/planning an advertising company.ipynb)
 
 ## Описание задачи:
 Провести исследование и построить прогноз на следующий год для планирования рекламной копании интернет-магазина компьютерных игр. 
