@@ -1,5 +1,5 @@
 # Планирование рекламной компании.
-[Проект](Project_1_Advertising_company/planning an advertising company.ipynb)
+[Проект](https://github.com/Bloky777/Portfolio/blob/main/Project_1_Advertising_company/planning%20an%20advertising%20company.ipynb)
 
 ## Описание задачи:
 Провести исследование и построить прогноз на следующий год для планирования рекламной копании интернет-магазина компьютерных игр. 
