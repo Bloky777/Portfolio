@@ -1,5 +1,6 @@
-<a href="https://praktikum.yandex.ru/"><img width=80% src="https://geekhacker.ru/wp-content/uploads/2020/08/jandeks-praktikum-logo-2-1040x650.png"></a><br><br>
+<a href="https://praktikum.yandex.ru/"><img width=100% src="https://sun9-62.userapi.com/impg/e9dkdKqRVBz0CtQA8Tg0XWCe4mdDVtjHR2v8Gg/pOWhCnYVU2Y.jpg?size=807x338&quality=95&sign=a0d4f82eb0a3556967695bf1f1d3595e&c_uniq_tag=kEENOIBfWszijo6rmtf4-HgeiD_rcAcYoKOA0xKfzQg&type=album"></a><br><br>
 <p align=center>
+
 ## Портфолио проектов в области анализа данных, визуализации и машинного обучения.
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
