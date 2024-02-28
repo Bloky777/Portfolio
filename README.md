@@ -1,6 +1,8 @@
 ## Портфолио проектов в области анализа данных, визуализации и машинного обучения.
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
+[Cerificate of competition of Data Science professionsl training course](https://github.com/Bloky777/Portfolio_Yandex_Practicum/blob/main/certificate.pdf)
+[Диплом о профессиональной переподготовке по профессии "Data Science"](https://github.com/Bloky777/Portfolio_Yandex_Practicum/blob/main/certificate_ru.pdf)
 
 | Номер | Название проекта | Описание | Используемые библиотеки | 
 | :----------------------| :---------------------- | :---------------------- | :---------------------- |
