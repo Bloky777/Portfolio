@@ -1,3 +1,5 @@
+<a href="https://praktikum.yandex.ru/"><img width=100% src="https://geekhacker.ru/wp-content/uploads/2020/08/jandeks-praktikum-logo-2-1040x650.png"></a><br><br>
+<p align=center>
 ## Портфолио проектов в области анализа данных, визуализации и машинного обучения.
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
